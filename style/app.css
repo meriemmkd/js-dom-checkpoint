@@ -1,0 +1,33 @@
+.app {
+    padding: 50px;
+}
+
+.app div {
+    padding: 30px;
+}
+
+.page-heading {
+    text-align: center;
+}
+
+.totalPriceHeading {
+    padding: 0 30px;
+}
+
+.shopping-cart {
+    display: flex;
+}
+
+.shopping-cart .cart-item {
+    width: 50%;
+    border: 1px solid #ccc;
+    margin: 5px;
+}
+
+.action-btn {
+    background-color: transparent;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+    margin: 15px 0;
+}
